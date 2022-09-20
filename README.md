@@ -1,6 +1,12 @@
-# padrao
+# Flutter Padrao
 
-A new Flutter project.
+Projeto feito para praticar os fundamentos de Flutter:
+
+- Components;
+- Stateless;
+- Stateful;
+- Widget;
+- Model;
 
 ## Getting Started
 
